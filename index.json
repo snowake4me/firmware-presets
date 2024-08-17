@@ -6339,7 +6339,7 @@
     },
     {
       "fullPath": "presets/4.5/osd/snowake_osd.txt",
-      "hash": "32ccec6ce23feb2a28749255ca941fd0c0cc06a55e59a3271e88cb47c944209c",
+      "hash": "adc1e1924fd2af2a3d8a65e0472fa6686d03b2b9d29d3a8bba2abaaf63a19b6c",
       "title": "SnoWake DJI OSD",
       "firmware_version": [
         "4.4",
@@ -6360,7 +6360,7 @@
     },
     {
       "fullPath": "presets/4.5/osd/snowake_osd_gps.txt",
-      "hash": "e5b9cac91370fe8eecc7ff0281d2f2b2b89ee2bcf083aeee23cc3b0d6dc95476",
+      "hash": "8623ca193934989d46604ed5dfc3c4d53d9934056d0581c9ea8a2d0d6be60301",
       "title": "SnoWake DJI OSD GPS",
       "firmware_version": [
         "4.4",
