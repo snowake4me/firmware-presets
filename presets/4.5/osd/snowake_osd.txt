@@ -3,7 +3,7 @@
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: OSD
 #$ STATUS: COMMUNITY
-#$ KEYWORDS:DJI, HD, HDOSD, OSD, SnoWake, O3
+#$ KEYWORDS:DJI, HD, HDOSD, OSD, O3, SnoWake
 #$ AUTHOR: SnoWake
 
 #$ DESCRIPTION: SnoWake DJI HD OSD for aircraft without GPS Rx
@@ -24,6 +24,12 @@
 #$ DISCUSSION: https://github.com/betaflight/firmware-presets/pull/477
 
 #$ INCLUDE: presets/4.4/osd/defaults.txt
+
+craft_name = QAV-S2
+osd_craft_name_pos = 2680
+
+pilot_name = SnoWake
+osd_pilot_name_pos = 2647
 
 osd_units = IMPERIAL
 Allowed values: IMPERIAL, METRIC, BRITISH
@@ -153,14 +159,6 @@ Allowed range: 0 - 65535
 
 osd_motor_diag_pos = 341
 Allowed range: 0 - 65535
-
-osd_craft_name_pos = 2680
-Allowed range: 0 - 65535
-Default value: 341
-
-osd_pilot_name_pos = 2647
-Allowed range: 0 - 65535
-Default value: 341
 
 osd_flight_dist_pos = 341
 Allowed range: 0 - 65535
